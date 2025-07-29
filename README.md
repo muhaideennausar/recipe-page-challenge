@@ -10,7 +10,7 @@ A beautiful, responsive recipe card showcasing a classic omelette recipe with mo
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 
-## 🎯 Overview
+## 🎯 Overview {#overview}
 
 This project is a solution to the Recipe Page challenge from Frontend Mentor. The challenge was to build a responsive recipe card that looks great on both desktop and mobile devices.
 
@@ -54,12 +54,13 @@ Users should be able to:
 ### Installation
 
 1. **Clone the repository**
+   `git@github.com:muhaideennausar/recipe-page-challenge.git`
 
-2. **Navigate to project directory**
+3. **Navigate to project directory**
 
    `cd recipe-page-challenge`
 
-3. **Open in browser**
+4. **Open in browser**
 
    `open index.html`
 
