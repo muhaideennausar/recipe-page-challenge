@@ -54,13 +54,17 @@ Users should be able to:
 ### Installation
 
 1. **Clone the repository**
-   `git@github.com:muhaideennausar/recipe-page-challenge.git`
+   ```
+   git@github.com:muhaideennausar/recipe-page-challenge.git
+   ```
 
 3. **Navigate to project directory**
 
-   `cd recipe-page-challenge`
+   ```
+   cd recipe-page-challenge
+   ```
 
-4. **Open in browser**
+5. **Open in browser**
 
    `open index.html`
 
