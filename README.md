@@ -96,6 +96,6 @@ During this project, I gained valuable experience with:
 
 - Frontend Mentor: [@muhaideennausar](https://www.frontendmentor.io/profile/muhaideennausar)
 - GitHub: [@muhaideennausar](https://github.com/muhaideennausar)
-- LinkedIn: [Muhaideen Nausar](www.linkedin.com/in/muhaideen-nausar-b87819376)
+- LinkedIn: [Muhaideen Nausar](https://www.linkedin.com/in/muhaideen-nausar-b87819376)
 
 **Made with ❤️ and lots of ☕ in Chennai, Tamil Nadu**
